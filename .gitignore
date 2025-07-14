@@ -1,0 +1,3 @@
+# ignoring the created csv files
+*.csv
+
